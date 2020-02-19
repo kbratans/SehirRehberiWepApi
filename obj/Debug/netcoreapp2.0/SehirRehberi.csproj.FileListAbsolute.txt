@@ -1,0 +1,13 @@
+C:\Users\kbrat\source\repos\SehirRehberi\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\kbrat\source\repos\SehirRehberi\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\kbrat\source\repos\SehirRehberi\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\kbrat\source\repos\SehirRehberi\bin\Debug\netcoreapp2.0\SehirRehberi.deps.json
+C:\Users\kbrat\source\repos\SehirRehberi\bin\Debug\netcoreapp2.0\SehirRehberi.runtimeconfig.json
+C:\Users\kbrat\source\repos\SehirRehberi\bin\Debug\netcoreapp2.0\SehirRehberi.runtimeconfig.dev.json
+C:\Users\kbrat\source\repos\SehirRehberi\bin\Debug\netcoreapp2.0\SehirRehberi.dll
+C:\Users\kbrat\source\repos\SehirRehberi\bin\Debug\netcoreapp2.0\SehirRehberi.pdb
+C:\Users\kbrat\source\repos\SehirRehberi\obj\Debug\netcoreapp2.0\SehirRehberi.csprojAssemblyReference.cache
+C:\Users\kbrat\source\repos\SehirRehberi\obj\Debug\netcoreapp2.0\SehirRehberi.AssemblyInfoInputs.cache
+C:\Users\kbrat\source\repos\SehirRehberi\obj\Debug\netcoreapp2.0\SehirRehberi.AssemblyInfo.cs
+C:\Users\kbrat\source\repos\SehirRehberi\obj\Debug\netcoreapp2.0\SehirRehberi.dll
+C:\Users\kbrat\source\repos\SehirRehberi\obj\Debug\netcoreapp2.0\SehirRehberi.pdb
